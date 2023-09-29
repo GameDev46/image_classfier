@@ -19,4 +19,4 @@ Learning rate controls the size of the steps taken during gradient descent, for 
 
 ### Network Activation Function
 
-The dropdown determines the network activation functions, this can either help or inhibit your network during the training process and if you are unexperienced I would reccomend leaving this value untouched as the default setting of "sigmoid" yields the best results in mosst cases
+The dropdown determines the network activation functions, this can either help or inhibit your network during the training process and if you are unexperienced I would reccomend leaving this value untouched as the default setting of "sigmoid" yields the best results in most cases
