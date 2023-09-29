@@ -4,7 +4,7 @@ Create your own classes and training data to train a neural network to classify 
 
 ## Setup
 
-Once you have downloaded the repository you will need to unzip the [starter network folder](Image-AI%20(V3.5)/startNetworkFolder%20zipped.zip) in the [programs folder](Image-AI%20(V3.5)) and then move the file called startNetwork.JSON out of the unzipped folder and into the [main folder](Image-AI%20(V3.5)/startNetworkFolder%20zipped.zip) so that the program can properly load up the starting weights and biases of the initail untrained network (this improves train time and success for other applications)
+Once you have downloaded the repository you will need to unzip the [starter network folder](startNetworkFolder.zip) in the main directory and then move the file called startNetwork.JSON out of the unzipped folder and into the main directory so that the program can properly load up the starting weights and biases of the initail untrained network (this improves train time and success for other applications)
 
 
 ## Controls
