@@ -72,6 +72,15 @@ fetch("/startNetwork.json")
 		updateStartNet()
 
 	})
+	.catch(error => {
+
+		console.warn("Error loading start net: " + error)
+
+		startNetPresets = presets
+
+		startNet = new NeuralNetwork(startNetPresets);	
+		net.copy(startNet);
+	})
 
 function updateStartNet() {
 
