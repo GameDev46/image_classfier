@@ -1,4 +1,4 @@
-import { NeuralNetwork } from "/neuralNetwork.js";
+import { NeuralNetwork } from "../neuralNetwork.js";
 
 let width = 60;
 let height = 60;
