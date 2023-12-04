@@ -1,39 +1,39 @@
 <a href="https://github.com/GameDev46/image_classifier" title="Go to GitHub repo">
-    <img src="https://img.shields.io/static/v1?label=GameDev46&message=fractal_raytracer&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
+    <img src="https://img.shields.io/static/v1?label=GameDev46&message=image_classifier&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - image_classifier">
 </a>
 
 <br>
 
-![Static Badge](https://img.shields.io/badge/Version-1.1.7-green?style=for-the-badge&labelColor=1f1f22)
+![Static Badge](https://img.shields.io/badge/Version-1.2.8-green?style=for-the-badge&labelColor=1f1f22)
 
 
 ![Static Badge](https://img.shields.io/badge/-HTML5-1f1f22?style=for-the-badge&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/-CSS-1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
 ![Static Badge](https://img.shields.io/badge/-JavaScript-1f1f22?style=for-the-badge&logo=JavaScript)
     
-<a href="https://github.com/GameDev46/fractal_raytracer">
-    <img src="https://img.shields.io/github/stars/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="stars - fractal_raytracer">
+<a href="https://github.com/GameDev46/image_classifier">
+    <img src="https://img.shields.io/github/stars/GameDev46/image_classifier?style=for-the-badge&labelColor=1f1f22" alt="stars - image_classifier">
 </a>
-<a href="https://github.com/GameDev46/fractal_raytracer">
-    <img src="https://img.shields.io/github/forks/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="forks - fractal_raytracer">
+<a href="https://github.com/GameDev46/image_classifier">
+    <img src="https://img.shields.io/github/forks/GameDev46/image_classifier?style=for-the-badge&labelColor=1f1f22" alt="forks - image_classifier">
 </a>
 
 <br>
 <br>
 
-<a href="https://github.com/GameDev46/fractal_raytracer/releases/">
-    <img src="https://img.shields.io/github/tag/GameDev46/fractal_raytracer?include_prereleases=&sort=semver&color=Green&style=for-the-badge&labelColor=1f1f22" alt="GitHub tag">
+<a href="https://github.com/GameDev46/image_classifier/releases/">
+    <img src="https://img.shields.io/github/tag/GameDev46/image_classifier?include_prereleases=&sort=semver&color=Green&style=for-the-badge&labelColor=1f1f22" alt="GitHub tag">
 </a>
 
-<a href="https://github.com/GameDev46/fractal_raytracer/issues">
-    <img src="https://img.shields.io/github/issues/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="issues - fractal_raytracer">
+<a href="https://github.com/GameDev46/image_classifier/issues">
+    <img src="https://img.shields.io/github/issues/GameDev46/image_classifier?style=for-the-badge&labelColor=1f1f22" alt="issues - image_classifier">
 </a>
 
 <br>
 <br>
 
 <div align="left">
-<a href="https://gamedev46.github.io/fractal_raytracer/">
+<a href="https://gamedev46.github.io/image_classifier/">
     <img src="https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&labelColor=1f1f22" alt="View site - GH Pages">
 </a>
 </div>
