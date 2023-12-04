@@ -54,7 +54,7 @@ Create your own classes and training data to train a neural network to classify 
 
 Once you have downloaded the repository you will need to unzip the [starter network folder](startNetworkFolder.zip) in the main directory and then move the file called startNetwork.JSON out of the unzipped folder and into the main directory so that the program can properly load up the starting weights and biases of the initail untrained network (this improves train time and success for other applications)
 
-Alternatively you can simply use the [website that is hosted on github](https://gamedev46.github.io/image_classfier/), however this unfortunately doesn't have a starting model and so will perform qorse than the downloaded version
+Alternatively you can simply use the [website that is hosted on github](https://gamedev46.github.io/image_classifier/), however this unfortunately doesn't have a starting model and so will perform qorse than the downloaded version
 
 
 ## Controls
