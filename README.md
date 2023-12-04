@@ -1,10 +1,7 @@
 <a href="https://github.com/GameDev46/image_classifier" title="Go to GitHub repo">
     <img src="https://img.shields.io/static/v1?label=GameDev46&message=image_classifier&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - image_classifier">
+    <img src="https://img.shields.io/badge/Version-1.2.8-green?style=for-the-badge&labelColor=1f1f22&color=Green" alt="GameDev46 - image_classifier">
 </a>
-
-<br>
-
-![Static Badge](https://img.shields.io/badge/Version-1.2.8-green?style=for-the-badge&labelColor=1f1f22)
 
 
 ![Static Badge](https://img.shields.io/badge/-HTML5-1f1f22?style=for-the-badge&logo=HTML5)
