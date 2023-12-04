@@ -14,6 +14,7 @@
 <a href="https://github.com/GameDev46/image_classifier">
     <img src="https://img.shields.io/github/stars/GameDev46/image_classifier?style=for-the-badge&labelColor=1f1f22" alt="stars - image_classifier">
 </a>
+
 <a href="https://github.com/GameDev46/image_classifier">
     <img src="https://img.shields.io/github/forks/GameDev46/image_classifier?style=for-the-badge&labelColor=1f1f22" alt="forks - image_classifier">
 </a>
