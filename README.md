@@ -8,7 +8,7 @@
 ![Static Badge](https://img.shields.io/badge/-CSS-1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
 ![Static Badge](https://img.shields.io/badge/-JavaScript-1f1f22?style=for-the-badge&logo=JavaScript)
     
-<a href="https://github.com/GameDev46/image_classifier/stars">
+<a href="https://github.com/GameDev46/image_classifier/stargazers">
     <img src="https://img.shields.io/github/stars/GameDev46/image_classifier?style=for-the-badge&labelColor=1f1f22" alt="stars - image_classifier">
 </a>
 
