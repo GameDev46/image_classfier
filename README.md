@@ -8,13 +8,17 @@
 ![Static Badge](https://img.shields.io/badge/-CSS-1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
 ![Static Badge](https://img.shields.io/badge/-JavaScript-1f1f22?style=for-the-badge&logo=JavaScript)
     
-<a href="https://github.com/GameDev46/image_classifier">
+<a href="https://github.com/GameDev46/image_classifier/stars">
     <img src="https://img.shields.io/github/stars/GameDev46/image_classifier?style=for-the-badge&labelColor=1f1f22" alt="stars - image_classifier">
 </a>
 
-<a href="https://github.com/GameDev46/image_classifier">
+<a href="https://github.com/GameDev46/image_classifier/forks">
     <img src="https://img.shields.io/github/forks/GameDev46/image_classifier?style=for-the-badge&labelColor=1f1f22" alt="forks - image_classifier">
 </a>
+
+<a href="https://github.com/GameDev46/image_classifier/issues">
+    <img src="https://img.shields.io/github/issues/GameDev46/image_classifier?style=for-the-badge&labelColor=1f1f22&color=blue"/>
+ </a>
 
 <br>
 <br>
