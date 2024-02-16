@@ -1,12 +1,12 @@
 <a href="https://github.com/GameDev46" title="Go to profile">
-    <img src="https://img.shields.io/static/v1?label=GameDev46&message=Profile&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - image_classifier">
+    <img src="https://img.shields.io/static/v1?label=GameDev46&message=|&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - image_classifier">
     <img src="https://img.shields.io/badge/Version-1.2.8-green?style=for-the-badge&labelColor=1f1f22&color=Green" alt="GameDev46 - image_classifier">
 </a>
 
 
-![Static Badge](https://img.shields.io/badge/-HTML5-1f1f22?style=for-the-badge&logo=HTML5)
-![Static Badge](https://img.shields.io/badge/-CSS-1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
-![Static Badge](https://img.shields.io/badge/-JavaScript-1f1f22?style=for-the-badge&logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=HTML5)
+![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
+![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=JavaScript)
     
 <a href="https://github.com/GameDev46/image_classifier/stargazers">
     <img src="https://img.shields.io/github/stars/GameDev46/image_classifier?style=for-the-badge&labelColor=1f1f22" alt="stars - image_classifier">
@@ -19,17 +19,6 @@
 <a href="https://github.com/GameDev46/image_classifier/issues">
     <img src="https://img.shields.io/github/issues/GameDev46/image_classifier?style=for-the-badge&labelColor=1f1f22&color=blue"/>
  </a>
-
-<br>
-<br>
-
-<a href="https://github.com/GameDev46/image_classifier/releases/">
-    <img src="https://img.shields.io/github/tag/GameDev46/image_classifier?include_prereleases=&sort=semver&color=Green&style=for-the-badge&labelColor=1f1f22" alt="GitHub tag">
-</a>
-
-<a href="https://github.com/GameDev46/image_classifier/issues">
-    <img src="https://img.shields.io/github/issues/GameDev46/image_classifier?style=for-the-badge&labelColor=1f1f22" alt="issues - image_classifier">
-</a>
 
 <br>
 <br>
